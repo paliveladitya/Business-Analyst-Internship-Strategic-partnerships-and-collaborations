@@ -119,7 +119,7 @@ I'm passionate about leveraging **business analytics, research, and technology**
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/paliveladitya
-- **LinkedIn:** https://www.linkedin.com/in/aditya-palivela
+- **LinkedIn:** linkedin.com/in/aditya-palivela
 * **Email:** *paliveladitya@gmail.com*
 
 ---
