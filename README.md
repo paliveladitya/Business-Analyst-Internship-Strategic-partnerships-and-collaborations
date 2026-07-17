@@ -1,3 +1,4 @@
+<img width="1190" height="680" alt="BI dshbord" src="https://github.com/user-attachments/assets/c817a1a7-2745-452d-9e96-beefcf9ce65e" />
 # 🤝 Internship – Strategic Partnerships & Collaborations
 
 > **A business development and strategic partnerships project focused on identifying collaboration opportunities, stakeholder engagement, and driving organizational growth through research and data-driven decision-making.**
